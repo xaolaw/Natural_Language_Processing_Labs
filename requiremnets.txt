@@ -1,6 +1,5 @@
 spacy>=3.8.2
-spacy_transformers
 jupyter>=1.1.1
 datasets>=3.1.0
 matplotlib>=3.9.3
-transformers
+numpy>=2.0.0
