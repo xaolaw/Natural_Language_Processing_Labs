@@ -6,3 +6,5 @@ numpy>=2.0.0
 transformers>=4.47.0
 torch>=2.5.1
 scikit-learn
+elasticsearch
+pandas
