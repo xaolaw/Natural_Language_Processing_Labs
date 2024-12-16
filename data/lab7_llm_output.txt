@@ -1,0 +1,61 @@
+{'persName': ['Jake Paul', 'Mike Tyson']}  
+{'persName': ['Ridley Scott']} 
+{'persName': ['Arizo'], 'orgName': ['Phoenix Suns'], 'placeName': [] , 'geogName': [], 'date': [], 'time': []  }
+{"persName": ["Karola Nawrockiego"],"orgName": ["Instytut"], "placeName": [],"geogName": [],"date": [],"time": []}
+{"persName": ["Brandin Podziemski"]}
+{'persName': [], 'orgName': [('Langchain',)], 'placeName': [], 'geogName': [], 'date': [], 'time': []}  
+{'persName': ['Bosak'], 'orgName': ['Collegium Humanum'], 'placeName': [], 'geogName': [], 'date': [], 'time': []}  
+{'persName': [], 'orgName': ['LEGO'], 'placeName': ['Warszawie'], 'geogName': [], 'date': [], 'time': []  }
+{'persName': [], 'orgName': [('Lexusa', )], 'placeName': [], 'geogName': [], 'date': [], 'time': []}  
+{'persName': [], 'orgName': ['Bitcoina'], 'placeName': ['Algieria'], 'geogName': [], 'date': [], 'time': []} 
+{'persName': ['Wojciech Szczęsny']}
+{'persName': [], 'orgName': ['Legia', 'Ligi Konfer...'], 'placeName': [], 'geogName': [], 'date': [], 'time': []}  
+{'persName': ['Max Verstappen']}  
+{"persName": ["Robert Lewandowski"]}
+{'persName': [], 'orgName': ['JCI', 'SEC'], 'placeName': [], 'geogName': [], 'date': ['czwartek'], 'time': []} 
+{'persName': [], 'orgName': ['Polski', 'NBA'], 'placeName': ['Polski'], 'geogName': [], 'date': [], 'time': []}  
+{'persName': [], 'orgName': ['W ramach wspólnego patrolu'], 'placeName': ['Seul', 'Chiny'], 'geogName': [], 'date': [], 'time': []}
+{'persName': ['Paul Mescal']} 
+{'persName': [], 'orgName': ['Yi Peng', 'Kattegat'], 'placeName': [], 'geogName': [], 'date': [], 'time': []}  
+{'persName': ['Musk']}  
+{'persName': [], 'orgName': ['PGNiG'], 'placeName': [], 'geogName': [], 'date': ['2018 r.'], 'time': []} 
+{'persName': ['Piotr Żyła', 'Agniesz']} 
+{'persName': ['Donald Trump']}  
+{'persName': [], 'orgName': ['Amerykański'], 'placeName': ['Ameryka', 'USA'], 'geogName': ['Ameryka', 'USA'], 'date': [], 'time': []} 
+{"persName": ["Jun Suk Jeol"],"orgName": [],"placeName": ["Korea Południowa"],"geogName": [],"date": [],"time": []}  
+{'persName': [], 'orgName': [], 'placeName': ['Kraków'], 'geogName': [], 'date': ['poniedziałek 9 grudzień'], 'time': ['godz. 12']}
+{"persName": ["Wolfgang Fink"], "orgName": [],"placeName": ["Niemcy"],"geogName": [],"date": [],"time": []}
+{'persName': [],'orgName': [],'placeName': ['Niemcy', 'Kresy'],'geogName': [],'date': [],'time': []}
+{'persName': [], 'orgName': [], 'placeName': ['Barajas'], 'geogName': [], 'date': ['wtorek'], 'time': []}
+{"persName": [],"orgName": [],"placeName": ["Malibu", "Los Angeles"],"geogName": [],"date": [],"time": []}
+{"persName": [],"orgName": [("Reuters",)],"placeName":  [("Tartus",)],"geogName": [],"date": [],"time": []}
+{'persName': [], 'orgName': [], 'placeName': ['Chorwacji'], 'geogName': [], 'date': [], 'time': []}  
+{'persName': [], 'orgName': [], 'placeName': ['Australii'], 'geogName': [], 'date': [], 'time': []}
+{'persName': [], 'orgName': ['Instytut'], 'placeName': ['Polski'], 'geogName': [], 'date': [], 'time': []}
+{ "persName": [], "orgName": [], "placeName": ["Pacyfiku"], "geogName": ["Pacyfiku"], "date": [], "time": []}  
+{"persName": [],"orgName": [ 'Copernicus'],"placeName": [],"geogName": [],"time": []}
+{'persName': [], 'orgName': ['Uniwersytetu Wrocławskiego'], 'placeName': [], 'geogName': [], 'date': [], 'time': []}
+{'persName': ['Donald Tusk']}
+{'persName': ['Aleksandr Łukaszenko'], 'orgName': [], 'placeName': ['Białorusi'], 'geogName': [], 'date': [], 'time': []}  
+{'persName': ['Baszara Asada']} 
+{'persName': ['Beniamin Netanjahu']} 
+{'persName': ['Amerykanów'], 'orgName': ['Stany Zjednoczone'], 'placeName': ['Stany Zjednoczone'], 'date': ['2050']} 
+{'persName': ['Iga Świątek']}  
+{'persName': [], 'orgName': ['Ligi Mistrzów', 'Borussia Dortmund'], 'placeName': [], 'geogName': [], 'date': [], 'time': []} 
+{'persName': [], 'orgName': ['Arabia Sau'], 'placeName': ['Arabii Sau'], 'geogName': [], 'date': ['21 na 22 grudnia'], 'time': []} 
+{'persName': ['Nick Kyrgios', 'Jan']} 
+{'persName': ['Sebastian Chmara']}  
+{'persName': [], 'orgName': ['Samsunga'], 'placeName': [], 'geogName': [], 'date': [], 'time': [] }
+{'persName': [], 'orgName': [], 'placeName': ['Europie', 'Krym'], 'geogName': [], 'date': [], 'time': []} 
+{"persName": [], "orgName": [], "placeName": ["USA"], "geogName": [], "date": [], "time": []}  
+{'persName': [ ], 'orgName': ["RH Power Utilities Pvt Ltd"], 'placeName': [],'geogName': [],'date': [],'time': []}
+{"persName": [], "orgName": [("HSBC",)], "placeName": [], "geogName": [], "date": [], "time": []}  
+{'persName': [], 'orgName': [('Chipotle',)], 'placeName': [], 'geogName': [], 'date': [], 'time': []}
+{'persName': [], 'orgName': ['JCI', 'SEC'], 'placeName': [], 'geogName': [], 'date': [], 'time': []}
+{'persName': [], 'orgName': [('American Airlines',)], 'placeName': [], 'geogName': [], 'date': [], 'time': []}
+{"persName": ["Xi Jinping"] ,"orgName": [],"placeName": ["Chiny"],"geogName": [],"date": []}
+{"persName": [], "orgName": [], "placeName": ["Kraków"], "geogName": [], "date": ["10.12.20..."], "time": []} 
+{'persName': ['Jan Paweł 2']} 
+{"persName": ["Denjiego"]}
+{'persName': ['Jeff Bezos']}  
+
