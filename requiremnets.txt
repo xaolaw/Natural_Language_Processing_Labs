@@ -8,3 +8,6 @@ torch>=2.5.1
 scikit-learn
 elasticsearch
 pandas
+morfeusz2
+protobuf
+sacremoses
