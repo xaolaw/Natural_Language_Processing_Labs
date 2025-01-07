@@ -9,3 +9,5 @@ scikit-learn
 elasticsearch
 pandas
 morfeusz2
+protobuf
+sacremoses
