@@ -11,3 +11,4 @@ pandas
 morfeusz2
 protobuf
 sacremoses
+transformers[torch]
