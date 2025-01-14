@@ -12,3 +12,5 @@ pip-selfcheck.json
 data
 checkpoint*
 trained_model
+db_backup
+*.db

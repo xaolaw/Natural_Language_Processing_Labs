@@ -12,3 +12,4 @@ morfeusz2
 protobuf
 sacremoses
 accelerate
+sentence-transformers
