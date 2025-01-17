@@ -14,3 +14,5 @@ checkpoint*
 trained_model
 db_backup
 *.db
+qdrant_storage
+*.pdf
