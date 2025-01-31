@@ -16,3 +16,4 @@ db_backup
 *.db
 qdrant_storage
 *.pdf
+simple-legal-questions-pl-main
